@@ -1,0 +1,8 @@
+diff a/test2.html b/test2.html	(rejected hunks)
+@@ -1 +0,3 @@
+-test2 파일
+\ No newline at end of file
++test2 파일
++
++테스트
+\ No newline at end of file
